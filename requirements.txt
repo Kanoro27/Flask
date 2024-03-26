@@ -1,9 +1,0 @@
-flask
-werkzeug
-torch
-librosa
-moviepy
-gtts
-scipy
-IPython
-transformers
